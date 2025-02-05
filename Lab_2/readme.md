@@ -1,7 +1,7 @@
 # Combinational Circuits: Structural Modelling using Vivado
 
 ## 📌 Overview
-This experiment focuses on designing and implementing combinational circuits using structural modeling in **Vivado**. The design is tested through simulation and verified using a truth table.
+This experiment focuses on designing and implementing combinational circuits using structural modeling in **Vivado**.
 
 ## 📂 Truth Table
 The following truth table represents the combinational circuit:
@@ -35,4 +35,4 @@ The combinational circuit was successfully modeled and simulated using Vivado. T
 This experiment demonstrated the effectiveness of structural modeling in designing combinational circuits. By using **Vivado**, the circuit was successfully implemented and tested, confirming its expected behavior as per the truth table. The experiment provided valuable insights into digital design techniques and verification methodologies.
 
 ## 📜 Author
-**Faizi Senpai**
+**Faizi.Senpai**
