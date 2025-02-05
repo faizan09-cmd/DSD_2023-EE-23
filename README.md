@@ -37,19 +37,6 @@ To get started with the lab:
    - [ModelSim](https://www.intel.com/content/www/us/en/software/programmable/modelsim/overview.html)
 3. Explore the `examples/` folder to check sample circuits.
 
-## 🛠 Contributing
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Create a new branch:
-   ```sh
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit:
-   ```sh
-   git commit -m "Add new feature"
-   ```
-4. Push to your branch and create a Pull Request.
-
 ## 📜 License
 This project is licensed under the [UET LAHORE](LICENSE).
 
