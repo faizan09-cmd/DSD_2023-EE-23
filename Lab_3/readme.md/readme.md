@@ -32,4 +32,4 @@ The combinational circuit was successfully modeled and simulated using QuestaSim
 This experiment demonstrated the effectiveness of structural modeling in designing combinational circuits. By using **QuestaSim**, the circuit was successfully implemented and tested, confirming its expected behavior as per the truth table. The experiment provided valuable insights into digital design techniques and verification methodologies.
 
 ## 📜 Author
-[Your Name]
+[Faizi.senpai]
